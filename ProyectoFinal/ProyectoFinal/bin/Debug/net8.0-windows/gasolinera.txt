@@ -1,0 +1,6 @@
+Nombre;Apellido;NIT;Bomba;TipoDeDespacho;FechaHora;PrecioDia;CantidadDespacho;Total
+Julio;Tzicap;CF;1;Tanque Lleno;28/5/2024 09:00:21;10;10;100
+Keitlyn;Maximiliana;CF;2;Prepago;28/5/2024 09:01:28;10;10;100
+Felix;Sontay;CF ;2;Tanque Lleno;28/5/2024 09:39:36;10;10;100
+Luis;Rolando;CF;1;Prepago;29/5/2024 19:21:30;10;10;100
+Sandra;Torres;CF;2;Prepago;29/5/2024 19:32:44;10;10;100

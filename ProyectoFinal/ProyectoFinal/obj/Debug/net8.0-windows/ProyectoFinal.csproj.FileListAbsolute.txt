@@ -1,0 +1,84 @@
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.exe
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.deps.json
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.Form1.resources
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\refint\ProyectoFinal.dll
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\50242\Desktop\Ejercicios Progra III\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ref\ProyectoFinal.dll
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.exe
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.deps.json
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.Form1.resources
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\refint\ProyectoFinal.dll
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\50242\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ref\ProyectoFinal.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.exe
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.deps.json
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.Form1.resources
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.CopyComplete
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\refint\ProyectoFinal.dll
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\50242\Desktop\Final Version 2\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ref\ProyectoFinal.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.exe
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.deps.json
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.Form1.resources
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.csproj.CopyComplete
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\refint\ProyectoFinal.dll
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.pdb
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\50242\Desktop\JSON FUNCIONAL\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0-windows\ref\ProyectoFinal.dll
